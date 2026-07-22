@@ -1,7 +1,7 @@
 # self - Introduction :-
 Good morning/afternoon, sir/madam.
 
->> My name is Kavya Obillineni. I recently completed my Bachelor of Technology in Computer Science Engineering.
+My name is Kavya Obillineni. I recently completed my Bachelor of Technology in Computer Science Engineering.
 
 SKILLS :-
 
