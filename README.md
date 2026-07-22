@@ -17,15 +17,20 @@ PROJECTS :-
 
 📚 During my academic journey, I worked on some projects.
 
-🛰️ Smart Attendance System Project :- which automated attendance tracking using technologies such as RFID, QR codes, and facial recognition.
+🛰️ Smart Attendance System Project :- 
+
+which automated attendance tracking using technologies such as RFID, QR codes, and facial recognition.
 
 ⚡ This project helped improve attendance management and reduce manual effort.
 
-📝  Online Assessment and Result Automation System Project :- developed using Microsoft Power Apps and Microsoft 365.
+📝  Online Assessment and Result Automation System Project :- 
+
+developed using Microsoft Power Apps and Microsoft 365.
 
 🚀 The system automated online assessments, result processing, and report generation, making the evaluation process more efficient and accurate.
 
 📊Data Analysis Projects :- 
+
 Performed data cleaning, transformation, and visualization on datasets.
 Generated insights using Python and Excel.
 Built interactive dashboards using Power BI to represent trends and patterns 
