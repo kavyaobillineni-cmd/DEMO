@@ -41,10 +41,6 @@ Improved attendance management efficiency and reduced manual effort.
 
 ⭐ I am ready to give my best effort, continuously improve my skills, and become a valuable member of the team.
 
-## 📌 Career Objective :-
-
-To secure an entry-level position in a progressive organization where I can apply my analytical skills, gain practical experience, and contribute to organizational success while growing professionally.
-
 🔗 LinkedIn: www.linkedin.com/in/kavya-obillineni
 
 🙏 Thank you for giving me this opportunity.
