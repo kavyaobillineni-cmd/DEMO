@@ -1,7 +1,6 @@
 # self - Introduction :-
-🌞Good Morning/Afternoon, Sir/Madam.
 
-My name is Kavya Obillineni.
+## Kavya Obillineni
 
 🎓 I recently completed my Bachelor of Technology in Computer Science Engineering.
 
@@ -34,7 +33,7 @@ Improved attendance management efficiency and reduced manual effort.
 * Generated actionable insights using **Python** and **Excel**.
 * Built interactive dashboards in **Power BI** to identify trends and patterns.
 
-## 📊 Role: Data Analyst :-
+## 📊 INTERESTED :-
 
 🌱 As a fresher, I am eager to learn, adapt, and contribute to the organization's goals.
 
@@ -47,7 +46,5 @@ Improved attendance management efficiency and reduced manual effort.
 To secure an entry-level position in a progressive organization where I can apply my analytical skills, gain practical experience, and contribute to organizational success while growing professionally.
 
 🔗 LinkedIn: www.linkedin.com/in/kavya-obillineni
-
-🔗 GitHub: https://github.com/kavyaobillineni-cmd
 
 🙏 Thank you for giving me this opportunity.
