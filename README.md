@@ -15,23 +15,31 @@ SKILLS :-
 
 PROJECTS :-
 
-📚 During my academic journey, I worked on two major projects.
+📚 During my academic journey, I worked on some projects.
 
-🛰️ The first project was a Smart Attendance System, which automated attendance tracking using technologies such as RFID, QR codes, and facial recognition.
+🛰️ Smart Attendance System Project :- which automated attendance tracking using technologies such as RFID, QR codes, and facial recognition.
 
 ⚡ This project helped improve attendance management and reduce manual effort.
 
-📝 My second project was an Online Assessment and Result Automation System developed using Microsoft Power Apps and Microsoft 365.
+📝  Online Assessment and Result Automation System Project :- developed using Microsoft Power Apps and Microsoft 365.
 
 🚀 The system automated online assessments, result processing, and report generation, making the evaluation process more efficient and accurate.
 
-ROLE :- DATA ANALYST
+📊Data Analysis Projects :- 
+Performed data cleaning, transformation, and visualization on datasets.
+Generated insights using Python and Excel.
+Built interactive dashboards using Power BI to represent trends and patterns 
+
+📊 ROLE :- DATA ANALYST :-
 
 🌱 As a fresher, I am eager to learn, adapt, and contribute to the organization's goals.
 
 💪 I am confident that my technical background, dedication, and willingness to learn will help me perform well in this role.
 
 ⭐ I am ready to put in my best effort, continuously improve my skills, and prove myself as a valuable member of the team.
+
+📌 Career Objective
+To secure an entry-level position in a progressive organization where I can apply my analytical skills, gain practical experience, and contribute to organizational success while growing professionally.
 
 🙏 Thank you for giving me this opportunity.
 
